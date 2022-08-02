@@ -1,0 +1,22 @@
+{
+    "name": "Mbit_IR_V2",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom IR V2",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "infrared-receiver.ts",
+        "_locales/zh-cn/Mbit_IR_V2-strings.json",
+        "_locales/zh-tw/Mbit_IR_V2-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
